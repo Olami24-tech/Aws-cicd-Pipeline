@@ -122,3 +122,7 @@ Resolving these issues helped me gain a much better understanding of GitHub Acti
 - Multi-environment deployments
 - Manual approvals
 - Security scanning
+
+  ## 👤 Author
+
+Yusuf Olamilekan Oyedele
